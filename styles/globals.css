@@ -3,7 +3,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
+body {
+  @apply bg-zinc-900
+}
 * > *{
   font-family: 'Titillium Web', sans-serif;
   color: #fafafa;
