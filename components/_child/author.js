@@ -11,7 +11,7 @@ export default function Author() {
 
                 </Link>
                 <span className="text-sm text-gray-400">
-                        uiux designer and developer
+       author
                     </span>
             </div>
         </div>
